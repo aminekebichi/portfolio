@@ -1,7 +1,6 @@
 const Footer = () => (
     <footer className="bg-dark text-center text-white py-3">
       <div className="container">
-        <p>© 2024 Portfolio. All rights reserved.</p>
         <p>
           <a
             href="https://github.com/aminekebichi/portfolio/tree/main"
