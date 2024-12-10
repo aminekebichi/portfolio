@@ -4,5 +4,5 @@ Welcome to my personal portfolio website, built using React and styled with Boot
 
 # Features
 
-Interactive Resume: Includes an embedded, scrollable PDF of my resume.
-Download: Allows user to download resume.
+Interactive Resume: Includes an embedded, scrollable PDF of my resume. <br>
+Downloadable: Allows user to download resume.
